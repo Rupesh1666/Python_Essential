@@ -1,0 +1,2 @@
+Python...#connect>>i = rupes.h1111
+copying first.txt file contain to second.txt using fule functions
